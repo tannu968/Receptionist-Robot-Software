@@ -19,7 +19,9 @@ Proud to share my latest project: The Receptionist Robot, a cutting-edge solutio
 🎯 This project is designed to:
 
 1). Enhance visitor experiences.
+
 2). Save time and reduce workload for front-desk staff.
+
 3). Bring innovation to everyday operations.
 
 📌 Technologies Used: Python, OpenCV, OpenAI API, Google Text-to-Speech (gTTS), and Firebase.
