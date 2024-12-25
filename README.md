@@ -9,8 +9,11 @@ Proud to share my latest project: The Receptionist Robot, a cutting-edge solutio
 🔑 Key Features:
 
 1). Advanced Facial Recognition: Seamlessly identify and welcome guests.
+
 2). Conversational AI: Powered by OpenAI's GPT for natural, human-like interactions.
+
 3). Voice Interaction: Using Google Text-to-Speech for real-time communication.
+
 4). Smart Data Management: Real-time user registration and data handling with Firebase.
 
 🎯 This project is designed to:
